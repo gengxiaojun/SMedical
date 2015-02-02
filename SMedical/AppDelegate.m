@@ -34,6 +34,7 @@
     }else{
         [self goLoginView];
     }
+    //test svn
     return YES;
 }
 
